@@ -19,7 +19,7 @@ HTML markup should look like:
    SASS styles should look like:
    
    
-       &__link
+       menu__link
         color: #828282
         &:hover
             color: #070707
