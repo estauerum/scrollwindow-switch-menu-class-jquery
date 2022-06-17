@@ -16,7 +16,7 @@ HTML markup should look like:
                 
                 
                 
-   CSS styles should look like:
+   SASS styles should look like:
    
    
        &__link
